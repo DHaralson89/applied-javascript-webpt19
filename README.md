@@ -28,13 +28,24 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is the DOM?
 
+document object module
+
 2. What is an event?
+
+something that the browser or user does
 
 3. What is an event listener?
 
+an event  that listens for a specific event going on
+
 4. Why would we convert a NodeList into an Array?
 
+to be able to maniplutae the code
+
+
 5. What is a component?
+
+reusable code
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
